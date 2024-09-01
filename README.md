@@ -95,7 +95,3 @@ Feel free to submit issues or pull requests. Contributions are welcome!
    ```
 
 5. **Submit a Pull Request.**
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
